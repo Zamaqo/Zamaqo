@@ -1,6 +1,6 @@
 # Zamaqo
 
-### Planetscale Command Reference
+## Planetscale Command Reference
 
 ### Installation *(Windows)*:
 > Requires scoop to be installed via powershell with the following commands:
