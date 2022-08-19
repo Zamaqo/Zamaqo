@@ -5,7 +5,7 @@
 ### Installation *(Windows)*:
 > Requires scoop to be installed via powershell with the following commands:
 ```bash
-Set-ExecutionPolicy RemoteSigned -Scope CurrentUser # Optional: Needed to run a remote script the first time
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser # Optional: Needed to run a remote script
 irm get.scoop.sh | iex
 ```
 Install `pscale` with the following commands:
