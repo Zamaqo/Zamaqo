@@ -34,13 +34,13 @@ pscale branch list <database-name> # for branches
 pscale org switch <organization-name>
 ```
 **Locally copy** a database branch *(dumping the database)*:
-> Optional `--dir <directory-name>` can be specified relative to the terminal
+> Optional `--output <directory-name>` can be specified relative to the terminal
 ```bash
 pscale database dump <database-name> <branch-name>
 ```
 
 **Restoring** a database branch from a local copy *(restoring the dumped database)*:
-> The directory flag `--dir` needs to point to the location of the local files relative to the terminal  
+> The directory flag `--dir <directory-name>` needs to point to the location of the local files relative to the terminal  
 > an optional flag `--overwrite-tables` can be specified to wipe existing data
 ```bash
 pscale database restore-dump <database-name> <branch-name> --dir <relative-directory>
