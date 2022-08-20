@@ -23,7 +23,10 @@ scoop update pscale
 ```bash
 pscale auth login
 ```
-
+**Listing** possible organizations:
+```bash
+pscale org list
+```
 **Switching organizations** to access different databases:
 ```bash
 pscale org switch <organization-name>
