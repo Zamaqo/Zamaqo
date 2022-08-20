@@ -24,6 +24,7 @@ scoop update pscale
 pscale auth login
 ```
 **Listing** possible options:
+> an optional `--web` flag can be added to open it in your browser
 ```bash
 pscale org list # for organizations
 pscale database list # for databases
