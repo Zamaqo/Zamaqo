@@ -23,15 +23,18 @@ scoop update pscale
 ```bash
 pscale auth login
 ```
-**Listing** possible organizations:
+**Listing** possible options:
 ```bash
-pscale org list
+pscale org list # for organizations
+pscale database list # for databases
+pscale branch list <database-name> # for branches
 ```
 **Switching organizations** to access different databases:
 ```bash
 pscale org switch <organization-name>
 ```
 **Locally copy** a database branch *(dumping the database)*:
+> Optional `--dir <directory-name>` can be specified relative to the terminal
 ```bash
 pscale database dump <database-name> <branch-name>
 ```
