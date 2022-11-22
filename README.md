@@ -21,7 +21,7 @@ scoop update pscale
 ### **Basic usage:**
 > The terminal needs to be verified with the following command:
 ```bash
-pscale auth login
+pscale auth login # Note You will be logged into pscale CLI after having to verify a char/integer string via a web gui
 ```
 **Listing** possible options:
 > an optional `--web` flag can be added to open it in your browser
