@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T08:12:56.466Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="xmViBFxV8xSZTn4FlUc6" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-03T09:06:31.301Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="TQ8asMiuhdSGiqC5t-Sk" version="24.6.4" type="github">
   <diagram name="Page-1" id="2QyqYy-X_fP3DlGpqI5O">
     <mxGraphModel dx="2261" dy="1907" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="IKeYPCFc28aPn8fqbqxN-5" value="Database:&lt;b&gt; Planetscale&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;https://app.planetscale.com/&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;zamaqo/zamaqodb/&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;alldesk" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-446" y="225" width="177.5" height="107" as="geometry" />
         </mxCell>
-        <mxCell id="IKeYPCFc28aPn8fqbqxN-6" value="Web application hosted on Vercel" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+        <mxCell id="IKeYPCFc28aPn8fqbqxN-6" value="React Web application hosted on Vercel" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
           <mxGeometry x="-81" y="185" width="400" height="348" as="geometry">
             <mxRectangle x="136" y="531" width="252" height="26" as="alternateBounds" />
           </mxGeometry>
