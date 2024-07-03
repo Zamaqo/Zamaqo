@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T09:21:21.337Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="xDfgBCIty9C9PR7DAvDa" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-03T15:38:06.314Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="t_oDk_jqH9P2z-bgNpPw" version="24.6.4" type="github">
   <diagram name="Page-1" id="2QyqYy-X_fP3DlGpqI5O">
     <mxGraphModel dx="2261" dy="1907" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,7 +21,7 @@
         <mxCell id="IKeYPCFc28aPn8fqbqxN-18" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-272" y="13" width="548" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="IKeYPCFc28aPn8fqbqxN-3" value="Authentication Provider: SSO : Library Nextauth (Auth.js) +Auth0&lt;br&gt;https://docs.google.com/spreadsheets/d/10IlccGbQEIvvAQBHJ8KFinq_7ow9RlpZiLx4ukDGvr4/edit?usp=sharing" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=15;" parent="IKeYPCFc28aPn8fqbqxN-18" vertex="1">
+        <mxCell id="IKeYPCFc28aPn8fqbqxN-3" value="Authentication Provider: SSO : Library Nextauth (Auth.js) +Auth0&lt;br&gt;&lt;a style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; text-align: start; white-space-collapse: preserve;&quot; data-sheets-formula-bar-text-style=&quot;font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:&#39;Arial&#39;;font-style:normal;text-decoration-skip-ink:none;&quot; class=&quot;waffle-rich-text-link&quot; data-sheets-formula-bar-text-link=&quot;http://dev-o2fvb7e5.us.auth0.com&quot;&gt;dev-o2fvb7e5.us.auth0.com &lt;/a&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=15;" parent="IKeYPCFc28aPn8fqbqxN-18" vertex="1">
           <mxGeometry y="26" width="548" height="41" as="geometry" />
         </mxCell>
         <mxCell id="IKeYPCFc28aPn8fqbqxN-17" value="Authentication providor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="IKeYPCFc28aPn8fqbqxN-18" vertex="1">
